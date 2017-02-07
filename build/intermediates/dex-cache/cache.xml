@@ -3,57 +3,39 @@
 
     <item
         is-multidex="false"
-        jar="C:\Material Design Project\XYZReader\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.0.0\jars\classes.jar"
+        jar="C:\Users\AlomariSF\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
         jumboMode="false"
         optimize="true"
-        revision="22.0.1"
-        sha1="c6d79137693d494dee16372d3921f919eb724ced">
-        <dex dex="C:\Material Design Project\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-22.0.0_f9d854c6f84c0a46aef95fff83985501546ff322.jar" />
+        revision="25.0.1"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="C:\Material Design Project\XYZReader\build\intermediates\pre-dexed\debug\support-annotations-25.1.1_633969ec1c48e17555e69f17568ad27458659715.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Material Design Project\XYZReader\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.0.0\jars\classes.jar"
+        jar="C:\Material Design Project\XYZReader\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="22.0.1"
-        sha1="11842de6a309c447b3a3d60d73ad637a87c58994">
-        <dex dex="C:\Material Design Project\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-22.0.0_adf2c1d2e21616178e6ff6aa31550a48a0676e9b.jar" />
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="C:\Material Design Project\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.1_a856a6f85242c57c7bc3188616f778a7c643d07b.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Material Design Project\XYZReader\build\intermediates\exploded-aar\com.android.support\palette-v7\22.0.0\jars\classes.jar"
+        jar="C:\Material Design Project\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\25.0.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="22.0.1"
-        sha1="285506e1cf9d5a66878e2aab3884b3427f8734e9">
-        <dex dex="C:\Material Design Project\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-palette-v7-22.0.0_c41e7dc61a9e97aed8e94d99e8c55ccb3b0d62e8.jar" />
+        sha1="6ac094121e75b4b87432beb9305d70c68ec6dcab">
+        <dex dex="C:\Material Design Project\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-support-v13-25.0.0_f4f102e499fd08235c6b40a32275592abb10941b.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Material Design Project\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\jars\classes.jar"
+        jar="C:\Material Design Project\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="22.0.1"
-        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
-        <dex dex="C:\Material Design Project\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-22.0.0_be93157cf3a3d01b5f95739a102bedd2babe1aa4.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\AlomariSF\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="22.0.1"
-        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
-        <dex dex="C:\Material Design Project\XYZReader\build\intermediates\pre-dexed\debug\support-annotations-22.0.0_ed8f5b291cb7be056ac2c8412a42f4f4883651cc.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Material Design Project\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\libs\internal_impl-22.0.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="22.0.1"
-        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
-        <dex dex="C:\Material Design Project\XYZReader\build\intermediates\pre-dexed\debug\internal_impl-22.0.0_e5ad21e066006567dd2c67e9a2e6f7fb737ccbc8.jar" />
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="C:\Material Design Project\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.1_5dd993472ebe14e56fcb8c73e60dec0cce5f81d2.jar" />
     </item>
     <item
         is-multidex="false"
@@ -66,30 +48,111 @@
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\AlomariSF\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jar="C:\Material Design Project\XYZReader\build\intermediates\exploded-aar\com.android.support\palette-v7\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="672cceae26e9a8fcbd8e0eefe5fc351c50d2488a">
+        <dex dex="C:\Material Design Project\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-palette-v7-25.0.0_6be175b51ef3342e80a4bcf8a5ae319e9db049f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Material Design Project\XYZReader\build\intermediates\exploded-aar\com.android.support\design\25.1.1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="22.0.1"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="C:\Material Design Project\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-design-25.1.1_54e26992d8ad2d69ff8fe7183eae13bf0fc50d92.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Material Design Project\XYZReader\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="C:\Material Design Project\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.1_2c49781b3e66eaa98d626280ced41787e88219e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AlomariSF\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
         sha1="98476622f10715998eacf9240d6b479f12c66143">
         <dex dex="C:\Material Design Project\XYZReader\build\intermediates\pre-dexed\debug\okio-1.6.0_e8bf32154c6cf57e40359969029f080c20c1edb9.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Material Design Project\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\22.0.0\jars\classes.jar"
+        jar="C:\Material Design Project\XYZReader\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="22.0.1"
-        sha1="7f9cca1caa023a880b00c382bcc5c90245ae4895">
-        <dex dex="C:\Material Design Project\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-support-v13-22.0.0_ff01c40d03a4a513eebfcb6eca112b628e99bd2a.jar" />
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="C:\Material Design Project\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.1_8a61f9b02ab90cd9346ccda915b2587a996b8ee0.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Material Design Project\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jar="C:\Material Design Project\XYZReader\build\intermediates\exploded-aar\com.android.support\transition\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="C:\Material Design Project\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-transition-25.1.1_e39c344f9788c6129774feaeaf52dfb51f96f64e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Material Design Project\XYZReader\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="C:\Material Design Project\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.1_d9233ae1374611b41742acae82aaaa4ed66c77d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Material Design Project\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Material Design Project\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.1_691494ce4a774a0ef297cbbf13fef0bc076ea951.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Material Design Project\XYZReader\build\intermediates\exploded-aar\com.android.support\transition\25.1.1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="22.0.1"
-        sha1="def3eff2b7b4774d96ae15b07b3fc0111edbfe24">
-        <dex dex="C:\Material Design Project\XYZReader\build\intermediates\pre-dexed\debug\internal_impl-22.0.0_69f9cc0085455a1ba081bedab540a48ab3767bb0.jar" />
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="C:\Material Design Project\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-transition-25.1.1_e39c344f9788c6129774feaeaf52dfb51f96f64e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Material Design Project\XYZReader\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="C:\Material Design Project\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-25.0.0_92fd130e911f5ab6c48010613dfa7882eeda8863.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Material Design Project\XYZReader\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="C:\Material Design Project\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.1_a1dcee768483a347c7110e3055015bf09a971225.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Material Design Project\XYZReader\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="C:\Material Design Project\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.1_d79e8e2213366c5f78afce62c957dbd5d5dae8e4.jar" />
     </item>
     <item
         is-multidex="false"
@@ -102,12 +165,201 @@
     </item>
     <item
         is-multidex="false"
-        jar="C:\Material Design Project\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\classes.jar"
+        jar="C:\Material Design Project\XYZReader\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="C:\Material Design Project\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.1_8a61f9b02ab90cd9346ccda915b2587a996b8ee0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Material Design Project\XYZReader\build\intermediates\exploded-aar\com.android.support\palette-v7\25.0.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="22.0.1"
-        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
-        <dex dex="C:\Material Design Project\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-support-v4-22.0.0_8c2b3642190cd3d0056e0405345d679c0fe8ba34.jar" />
+        sha1="672cceae26e9a8fcbd8e0eefe5fc351c50d2488a">
+        <dex dex="C:\Material Design Project\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-palette-v7-25.0.0_6be175b51ef3342e80a4bcf8a5ae319e9db049f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Material Design Project\XYZReader\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="C:\Material Design Project\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.1_a856a6f85242c57c7bc3188616f778a7c643d07b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AlomariSF\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Material Design Project\XYZReader\build\intermediates\pre-dexed\debug\okio-1.6.0_e8bf32154c6cf57e40359969029f080c20c1edb9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AlomariSF\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="C:\Material Design Project\XYZReader\build\intermediates\pre-dexed\debug\support-annotations-25.1.1_633969ec1c48e17555e69f17568ad27458659715.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Material Design Project\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6ac094121e75b4b87432beb9305d70c68ec6dcab">
+        <dex dex="C:\Material Design Project\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-support-v13-25.0.0_f4f102e499fd08235c6b40a32275592abb10941b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Material Design Project\XYZReader\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="C:\Material Design Project\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.1_2c49781b3e66eaa98d626280ced41787e88219e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Material Design Project\XYZReader\libs\volley.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="C:\Material Design Project\XYZReader\build\intermediates\pre-dexed\debug\volley_fe28111f74ce2db629a558e76c6385ba0ef3ff7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Material Design Project\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Material Design Project\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.1_691494ce4a774a0ef297cbbf13fef0bc076ea951.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Material Design Project\XYZReader\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="C:\Material Design Project\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.1_d9233ae1374611b41742acae82aaaa4ed66c77d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Material Design Project\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="67355078cd30daae43f62ba47a4663ee6edb976e">
+        <dex dex="C:\Material Design Project\XYZReader\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_0f2cd16f96073b15e3e777c45c9fd975b3c01229.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Material Design Project\XYZReader\build\intermediates\exploded-aar\com.android.support\design\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="C:\Material Design Project\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-design-25.1.1_54e26992d8ad2d69ff8fe7183eae13bf0fc50d92.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Material Design Project\XYZReader\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="C:\Material Design Project\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.1.1_de9ad35ef2c1f6f7b927600850d1e2a7674fedb1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Material Design Project\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="67355078cd30daae43f62ba47a4663ee6edb976e">
+        <dex dex="C:\Material Design Project\XYZReader\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_0f2cd16f96073b15e3e777c45c9fd975b3c01229.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Material Design Project\XYZReader\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="C:\Material Design Project\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.1_ef8edc0d72ec108f66249988a09c925b26063f53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Material Design Project\XYZReader\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="C:\Material Design Project\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.1_ef8edc0d72ec108f66249988a09c925b26063f53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Material Design Project\XYZReader\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="C:\Material Design Project\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.1.1_de9ad35ef2c1f6f7b927600850d1e2a7674fedb1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AlomariSF\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.1.2\7052283359001bb108753cb0583a887d3bf94c82\okhttp-3.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="C:\Material Design Project\XYZReader\build\intermediates\pre-dexed\debug\okhttp-3.1.2_f0f8dfdc4321fc273a1bedfe2c0ecfdd20257e09.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Material Design Project\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="C:\Material Design Project\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.1_5dd993472ebe14e56fcb8c73e60dec0cce5f81d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Material Design Project\XYZReader\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="C:\Material Design Project\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.1_d79e8e2213366c5f78afce62c957dbd5d5dae8e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Material Design Project\XYZReader\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="C:\Material Design Project\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.1_a1dcee768483a347c7110e3055015bf09a971225.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Material Design Project\XYZReader\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="C:\Material Design Project\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-25.0.0_92fd130e911f5ab6c48010613dfa7882eeda8863.jar" />
     </item>
 
 </items>
