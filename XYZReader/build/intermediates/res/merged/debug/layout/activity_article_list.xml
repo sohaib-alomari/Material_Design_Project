@@ -28,6 +28,7 @@
             android:src="@drawable/logo"
             android:layout_gravity="left|bottom"
             android:paddingLeft="4dp"
+            android:paddingBottom="4dp"
             android:contentDescription="@string/app_name" />
 
 </android.support.v7.widget.Toolbar>
