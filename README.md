@@ -10,19 +10,20 @@ Transformed the user experience of a news reading app using Material Design prin
 
 <img width="40%" vspace="20" hspace="20" src="/Screenshot_2016-11-11-04-55-55.png" /> <img width="40%" vspace="20" hspace="20" src="/Screenshot_2016-11-11-04-55-48.png" /> <img width="80%" hspace="20" vspace="20" src="/Screenshot_2016-11-11-04-55-40.png" />
 
-Rubric
+# Rubric
 
-Required Behavior
+### Required Behavior
 
-App conforms to common standards found in the Android Nanodegree General Project Guidelines
-App uses the Design Support library and its provided widget types (FloatingActionButton, AppBarLayout, SnackBar, etc).
-App uses CoordinatorLayout for the main activity.
-App theme extends from AppCompat.
-App uses an app bar and associated toolbars.
-App provides a Floating Action Button (FAB) for the most common action(s).
-App properly specifies elevations for app bars, FABs, and other elements specified in the Material Design specification.
-App provides sufficient space between text and surrounding elements.
-App has a consistent color theme defined in styles.xml. Color theme does not impact usability of the app.
-App uses images that are high quality, specific, and full bleed.
-App uses fonts that are either the Android defaults, are complementary, and aren't otherwise distracting.
+* App conforms to common standards found in the Android Nanodegree General Project Guidelines
+* App uses the Design Support library and its provided widget types (FloatingActionButton, AppBarLayout, SnackBar, etc).
+* App uses CoordinatorLayout for the main activity.
+* App theme extends from AppCompat.
+* App uses an app bar and associated toolbars.
+* App provides a Floating Action Button (FAB) for the most common action(s).
+* App properly specifies elevations for app bars, FABs, and other elements specified in the Material Design specification.
+* App provides sufficient space between text and surrounding elements.
+* App has a consistent color theme defined in styles.xml.
+Color theme does not impact usability of the app.
+* App uses images that are high quality, specific, and full bleed.
+* App uses fonts that are either the Android defaults, are complementary, and aren't otherwise distracting.
 
